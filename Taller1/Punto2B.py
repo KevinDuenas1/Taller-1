@@ -2,7 +2,7 @@ import random
 
 
 
-inicial = int(input("nemero inicial: "))
+inicial = int(input("numero inicial: "))
 final = int(input("numero final: "))
 
 resultado = random.randint(inicial,final)
